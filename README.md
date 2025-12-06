@@ -109,14 +109,14 @@ XGBClassifier(
 
 ### LSTM Model (Price Prediction)
 **Performance Metrics:**
-- **Test RMSE**: $3.90
-- **Test MAE**: $3.02
+- **Test RMSE**: 3.90
+- **Test MAE**: 3.02
 - **Test MAPE**: 2.53%
 
 **Next-Day Prediction:**
-- **Current Price**: $153.38 (Dec 28, 2023)
-- **Predicted Price**: $151.49
-- **Expected Change**: -$1.89 (-1.23%)
+- **Current Price**: 153.38 (Dec 28, 2023)
+- **Predicted Price**: 151.49
+- **Expected Change**: -1.89 (-1.23%)
 - **Signal**: **Bearish**
 
 ### XGBoost Model (Movement Classification)
